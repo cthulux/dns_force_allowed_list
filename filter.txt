@@ -1,0 +1,5 @@
+!
+! Title: Personal adguard DNS list
+! Description: This is a DNS allow list to force resolution of allowd hosts on Adguard
+!
+||masterconsultas.com.ar^
